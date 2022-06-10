@@ -50,8 +50,8 @@ To get a local copy up and running follow these simple example steps.
 
 The current package requirements are:
 
-- XAMPP/MAMMP/LAMMP >= 6.x
-- PHP >= 7.2
+- XAMPP/MAMMP/LAMMP
+- PHP 
 
 ### Installation
 
